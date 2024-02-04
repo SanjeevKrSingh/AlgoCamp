@@ -1,0 +1,9 @@
+                                    
+                         Day 4 Progress
+
+# Javascript
+  Arrays (Watch videos)
+
+# Tomarrow Plan
+  Arrays (Code it)
+  Object

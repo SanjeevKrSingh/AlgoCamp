@@ -1,0 +1,11 @@
+                                    
+                         Day 3 Progress
+
+# Javascript
+  Functions (Revise)
+  Debugging (Learn New)
+  Solve some pattern problems (Revise)
+
+# Tomarrow Plan
+  Arryas
+  Objects
